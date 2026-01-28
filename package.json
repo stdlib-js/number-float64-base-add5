@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float64-base-add5",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the sum of five double-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -40,8 +40,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-napi-quinary": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/math-base-napi-quinary": "^0.2.3",
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-base-filled-by": "^0.2.2",
@@ -87,7 +87,6 @@
     "double",
     "double-precision"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
